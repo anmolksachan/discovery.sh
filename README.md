@@ -1,8 +1,11 @@
 # discovery.sh
 
+![image](https://github.com/anmolksachan/discovery.sh/assets/60771253/57a4d3af-05e0-404d-9b71-a85e5809ab2d)
+
 * Discovery.sh
 This is the main script for this project.
-*** Requirements
+
+* Requirements
     From apt:
     - curl
     - nmap
